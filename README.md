@@ -5,8 +5,8 @@ Liste von Corona-Gegenmaßnahmen im betrieblichen und privaten Umfeld. Wird gele
 - AHA+A-Regeln einhalten (Abstand, Hygiene, Alltagsmaske + Corona-Warn-App) – s. https://www.bundesregierung.de/breg-de/themen/coronavirus/aha-a-formel-1774474
 - Impfung:
   - Impfen lassen
-  - Bei AstraZeneca: 2. Dosis nach 12 Wochen geben lassen für optimale Wirksamkeit (ca. 85% Schutz, nach 4 – 8 Wochen erst ca. 55%)
-  - Bei BioNTech/Pfizer: 2. Dosis nach 12 statt 3 – 4 Wochen geben lassen für bessere Wirksamkeit (s. https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00432-3/fulltext)
+  - Bei AstraZeneca: 2. Dosis nach 12 Wochen geben lassen für optimale Wirksamkeit (ca. 81% Schutz, nach unter 6 Wochen ca. 55%, s. https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00432-3/fulltext)
+  - Bei BioNTech/Pfizer: 2. Dosis nach 12 statt 3 – 4 Wochen geben lassen für bessere Wirksamkeit (s. https://www.birmingham.ac.uk/news/latest/2021/05/covid-pfizer-vaccination-interval-antibody-response.aspx)
   - SafeVac-App des Paul-Ehrlich-Instituts benutzen, zur Übermittlung von Beschwerden nach der Impfung (man hat selbst keinen Nutzen außer ein Protokoll, hilft aber ggf. bei der Beurteilung des Impfstoffs)
     - Google Play Store: https://play.google.com/store/apps/details?id=de.pei.safevac
     - Apple App Store: https://apps.apple.com/de/app/safevac/id1440303107 
